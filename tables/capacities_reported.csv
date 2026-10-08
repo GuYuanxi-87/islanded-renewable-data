@@ -1,0 +1,10 @@
+capacity,unit,S1,S2,S3,S4,S5,precision_basis
+wind,MW,84.93,83.23,83.23,105.02,105.02,manuscript_displayed_precision
+PV_modules,MW_DC,155.56,148.05,148.05,104.16,104.16,manuscript_displayed_precision
+reversible_pumped_hydro,MW,30.00,30.00,30.00,27.35,27.35,manuscript_displayed_precision
+pumped_hydro_potential_energy,MWh_potential,500.00,500.00,500.00,500.00,500.00,manuscript_displayed_precision
+battery_converter,MW,8.96,6.10,6.10,2.70,2.70,manuscript_displayed_precision
+battery_nameplate_energy,MWh_nameplate,30.98,21.10,21.10,9.31,9.31,manuscript_displayed_precision
+electrolyzer,MW,2.92,4.28,4.28,12.00,12.00,manuscript_displayed_precision
+usable_hydrogen,kg_H2,70017.37,90417.49,90417.49,123951.35,123951.35,manuscript_displayed_precision
+fuel_cell,MW,3.55,4.25,4.25,5.87,5.87,manuscript_displayed_precision

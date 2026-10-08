@@ -1,0 +1,6 @@
+case,resource_NPC_million_USD,hypothetical_carbon_payment_million_USD,GHG_proxy_kt_CO2e,resource_LCOE_USD_per_kWh,weather_year,precision_basis
+S1,468.347,0.000,355.994,0.21451,2023,manuscript_displayed_precision
+S2,468.682,7.742,342.630,0.21466,2023,manuscript_displayed_precision
+S3,468.682,7.742,342.630,0.21466,2023,manuscript_displayed_precision
+S4,486.591,25.903,299.662,0.22286,2023,manuscript_displayed_precision
+S5,486.591,97.102,299.662,0.22286,2023,manuscript_displayed_precision
