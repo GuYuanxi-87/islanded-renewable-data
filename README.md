@@ -6,7 +6,7 @@ Supporting data for **Tiered carbon pricing and weather sensitivity in planning 
 
 The three CSV files currently in this repository contain the numerical tables reported in the manuscript, transcribed at their displayed precision. They are not a replacement for the complete hourly data.
 
-**The complete computational archive has not yet been uploaded.** Raw meteorology, unrounded results, all 31 successful solutions, full hourly dispatch, verification reports, and calculation scripts remain in the previously prepared archive. Do not describe this repository as a complete deposit until that archive is present and checked.
+Raw meteorology, unrounded results, all 31 successful solutions, full hourly dispatch, verification reports, and calculation scripts remain in the previously prepared archive. Do not describe this repository as a complete deposit until that archive is present and checked.
 
 Updated 8 October 2026.
 
