@@ -57,7 +57,7 @@ Rounded tables can produce slightly different recomputed percentages. Use the un
 
 ## Complete archive contents awaiting deposit
 
-The local archive is named `JRSE计算与投稿资料.zip`. Within it, `reproducible_case/` contains:
+The prepared local archive is named `JRSE计算与投稿资料.zip`. The deposit scope is its `reproducible_case/` directory and the root `SHA256SUMS.txt` manifest, packaged as `islanded-renewable-data.zip`. Within `reproducible_case/` are:
 - exact raw NASA POWER responses for both years and source URLs/download date;
 - processed hourly inputs with units and the constructed load;
 - base assumptions and component cost/GHG coefficients;
@@ -68,7 +68,7 @@ The local archive is named `JRSE计算与投稿资料.zip`. Within it, `reproduc
 - `solve_case.py`, `verify_case.py`, `make_figures.py`;
 - exact software versions, installation requirements, figure files, and reference metadata.
 
-The archive root also includes its own README and SHA-256 manifest. It contains manuscript copies in a separate `manuscripts/` directory. The supporting numerical records are in `reproducible_case/`.
+The original archive also contains manuscript copies in a separate `manuscripts/` directory. That directory is outside this data deposit scope. The retained original SHA-256 manifest lists both data and manuscript files; checks of this deposit should select entries beginning with `reproducible_case/`.
 
 ## Computational environment and verification
 
